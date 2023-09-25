@@ -1,6 +1,6 @@
 # Audubon Park Land Encroachment
 
-**[Interactive Map](https://s3.amazonaws.com/filestogeaux.garyscorner.net/pub/AudubonParkWalnutSt.html){:target="_blank"}**
+**[Interactive Map](https://s3.amazonaws.com/filestogeaux.garyscorner.net/pub/AudubonParkWalnutSt.html)**
 
 ![image](https://github.com/GarysCorner/NewOrleansLandEncroachment/blob/master/AudubonParkWalnutSt.jpg?raw=true)
 
@@ -20,8 +20,8 @@ To make this happen I have combined publically availble data sources with photos
 * Parcel Map:  https://data.nola.gov/dataset/Parcels/v9q5-fz7t
 
 #### Info
-* [Audubon targets intrusions into park ](http://saveaudubonpark.org/web/saparchive/p4088.htm){:target="_blank"}
-* [Band v. Audubon Park Com'n](https://casetext.com/case/band-v-audubon-park-comn){:target="_blank"}
+* [Audubon targets intrusions into park ](http://saveaudubonpark.org/web/saparchive/p4088.htm)
+* [Band v. Audubon Park Com'n](https://casetext.com/case/band-v-audubon-park-comn)
 
 #### Disclaimer
 
