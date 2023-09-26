@@ -19,7 +19,9 @@ This project is not an attempt to point the finger at homeowners as it remains t
 
 To make this happen I have combined publicly available data sources with photos from my phone and tracking data from my Garmen watch (GPS + Galileo).  A 1m buffer was added to be fair.
 
-Total estimated encroachment = 34,025
+* Total encroached area = 34026
+* Mean Encroached Area = 1063
+* Median Ecnroache Area = 831
 
 ### Datasets
 * Parcel Map:  https://data.nola.gov/dataset/Parcels/v9q5-fz7t
