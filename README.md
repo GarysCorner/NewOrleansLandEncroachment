@@ -19,9 +19,9 @@ This project is not an attempt to point the finger at homeowners as it remains t
 
 To make this happen I have combined publicly available data sources with photos from my phone and tracking data from my Garmen watch (GPS + Galileo).  A 1m buffer was added to be fair.
 
-* Total encroached area = 34026
-* Mean Encroached Area = 1063
-* Median Ecnroache Area = 831
+* Total encroached area = 34026 sqft
+* Mean Encroached Area = 1063 sqft
+* Median Ecnroache Area = 831 sqft
 
 * 200 Block Encroached Area 11929 sqft ( 35.1%) 
 * 300 Block Encroached Area 7557 sqft ( 22.2%) 
