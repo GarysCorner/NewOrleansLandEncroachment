@@ -1,10 +1,12 @@
 # Audubon Park Land Encroachment
 
 **[Interactive Map](https://s3.amazonaws.com/filestogeaux.garyscorner.net/pub/AudubonParkWalnutSt.html)**
-
+ 
 ![image](https://github.com/GarysCorner/NewOrleansLandEncroachment/blob/master/AudubonParkWalnutSt.jpg?raw=true)
 
 ### Interactive Map Usage
+
+**[Interactive Map](https://s3.amazonaws.com/filestogeaux.garyscorner.net/pub/AudubonParkWalnutSt.html)**
 
 The areas in red on the interactive map represent assumed encroachments into Audubon Park.  The areas in blue are the properties associated with these encroachments.  Click the marker on each property to get more information about the encroachment (see disclaimer).  You will also find blue circles on the map, click these circles to see a photo taken from the location on the map intended to fairly depict the situation or provide additional context.
 
