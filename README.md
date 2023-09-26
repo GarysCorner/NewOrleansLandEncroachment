@@ -23,6 +23,10 @@ To make this happen I have combined publicly available data sources with photos 
 * Mean Encroached Area = 1063
 * Median Ecnroache Area = 831
 
+* 200 Block Encroached Area 11929 sqft ( 35.1%) 
+* 300 Block Encroached Area 7557 sqft ( 22.2%) 
+* 400 Block Encroached Area 14540 sqft ( 42.7%) 
+
 ### Datasets
 * Parcel Map:  https://data.nola.gov/dataset/Parcels/v9q5-fz7t
 
