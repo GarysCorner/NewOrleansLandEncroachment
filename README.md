@@ -19,15 +19,15 @@ During my walks in Audubon Park I have noticed what appears to be a concerning t
 
 This project is not an attempt to point the finger at homeowners as it remains the responsibility of the people, we pay to manage Audubon park to insure that it remains a public space accessible to anyone.  Public property is only public if we can all access it and no one can buy it.  If you set a precedent to allow the rental of public space, then it’s hard to blame people for wanting to do so.
 
-To make this happen I have combined publicly available data sources with photos from my phone and tracking data from my Garmen watch (GPS + Galileo).  A 1m buffer was added to be fair.
+To make this happen I have combined publicly available data sources with photos from my phone and tracking data from my Garmen watch (GPS + Galileo).
 
-* Total encroached area = 34026 sqft
-* Mean Encroached Area = 1063 sqft
-* Median Ecnroache Area = 831 sqft
+* Total encroached area = 41803 sqft
+* Mean Encroached Area = 1306 sqft
+* Median Ecnroache Area = 1099 sqft
 
-* 200 Block Encroached Area 11929 sqft ( 35.1%) 
-* 300 Block Encroached Area 7557 sqft ( 22.2%) 
-* 400 Block Encroached Area 14540 sqft ( 42.7%) 
+* 200 Block Encroached Area 15323 sqft ( 36.7%) 
+* 300 Block Encroached Area 9566 sqft ( 22.9%) 
+* 400 Block Encroached Area 16915 sqft ( 40.5%) 
 
 ### Datasets
 * Parcel Map:  https://data.nola.gov/dataset/Parcels/v9q5-fz7t
