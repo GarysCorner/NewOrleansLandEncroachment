@@ -15,7 +15,7 @@ The areas in red on the interactive map represent assumed encroachments into Aud
 * [Audubon targets intrusions into park ](http://saveaudubonpark.org/web/saparchive/p4088.htm)
 * [Band v. Audubon Park Com'n](https://casetext.com/case/band-v-audubon-park-comn)
 
-During my walks in Audubon Park I have noticed what appears to be a concerning trend of private landscapers planting plants (bamboo, cast irons, etc) which appear intended preventing reasonable access to parts of Audubon Park in a way that benefits private land owners.  A little googlefoo showed that this issue has come up before (see below) and was addressed in a way that was considered adequate at the time.  On that note I believe the situation has changed since this issue was addressed in the early 2000s.
+During my walks in Audubon Park I have noticed what appears to be a concerning trend of private landscapers planting plants (bamboo, cast irons, etc) which seem intended to preventing reasonable access to parts of Audubon Park in a way that benefits private land owners. A little googlefoo showed that this issue has come up before (see below) and was addressed in a way that was considered adequate at the time. On that note I believe the situation has changed since this issue was addressed in the early 2000s.
 
 This project is not an attempt to point the finger at homeowners as it remains the responsibility of the people, we pay to manage Audubon park to insure that it remains a public space accessible to anyone.  Public property is only public if we can all access it and no one can buy it.  If you set a precedent to allow the rental of public space, then it’s hard to blame people for wanting to do so.
 
