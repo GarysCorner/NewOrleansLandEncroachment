@@ -17,6 +17,8 @@ jupyterlab = "*"
 python-dateutil = "*"
 pytz = "*"
 exif = "*"
+python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
