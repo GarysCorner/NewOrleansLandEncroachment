@@ -2,3 +2,6 @@
 .ipynb_checkpoints/*
 .env
 datasets/Parcels.geojson
+Pipfile.lock
+img_walnutst/*
+img_walnutstMetaData.pickle
