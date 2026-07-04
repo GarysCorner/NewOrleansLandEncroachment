@@ -19,6 +19,7 @@ pytz = "*"
 exif = "*"
 python-dotenv = "*"
 requests = "*"
+pip = "*"
 
 [dev-packages]
 

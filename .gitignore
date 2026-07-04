@@ -2,7 +2,6 @@
 .ipynb_checkpoints/*
 .env
 datasets/Parcels.geojson
-Pipfile.lock
 img_walnutst/*.jpg
 img_walnutstMetaData.pickle
 AudubonParkWalnutSt.html
