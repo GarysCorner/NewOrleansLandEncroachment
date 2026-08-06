@@ -14,6 +14,7 @@ The areas in red on the interactive map represent assumed encroachments into Aud
 
 * [Audubon targets intrusions into park ](http://saveaudubonpark.org/web/saparchive/p4088.htm)
 * [Band v. Audubon Park Comission](https://caselaw.findlaw.com/court/la-court-of-appeal/1225526.html)
+* [Audubon Commission Minutes 11/13/2024](https://assets.speakcdn.com/assets/2848/ac_minutes_11_24-2024112102144005.pdf)
 
 During my walks in Audubon Park I have noticed what appears to be a concerning trend of private landscapers planting plants (bamboo, cast irons, etc) which seem intended to preventing reasonable access to parts of Audubon Park in a way that benefits private land owners. A little googlefoo showed that this issue has come up before (see below) and was addressed in a way that was considered adequate at the time. On that note I believe the situation has changed since this issue was addressed in the early 2000s.
 
