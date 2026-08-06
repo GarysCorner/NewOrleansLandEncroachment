@@ -21,13 +21,13 @@ This project is not an attempt to point the finger at homeowners as it remains t
 
 To make this happen I have combined publicly available data sources with photos from my phone and tracking data from ~~my Garmen watch (GPS + Galileo)~~ a USB connected [UBX-G7020KT GPS receiver](https://www.amazon.com/dp/B073P3Y48Q) through [GPSd](https://gpsd.io/).
 
-* Total encroached area = 64022 sqft
-* Mean Encroached Area = 2001 sqft
+* Total encroached area = 62725 sqft
+* Mean Encroached Area = 1960 sqft
 * Median Ecnroache Area = 1407 sqft
 
-* 200 Block Encroached Area 21749 sqft ( 34.0%) 
-* 300 Block Encroached Area 21963 sqft ( 34.3%) 
-* 400 Block Encroached Area 20310 sqft ( 31.7%) 
+* 200 Block Encroached Area 20452 sqft ( 32.6%) 
+* 300 Block Encroached Area 21963 sqft ( 35.0%) 
+* 400 Block Encroached Area 20310 sqft ( 32.4%) 
 
 ### Datasets
 * Parcel Map:  https://data.nola.gov/dataset/Parcels/v9q5-fz7t
