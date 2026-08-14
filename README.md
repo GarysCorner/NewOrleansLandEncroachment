@@ -33,6 +33,45 @@ To make this happen I have combined publicly available data sources with photos 
 ### Datasets
 * Parcel Map:  https://data.nola.gov/dataset/Parcels/v9q5-fz7t
 
+### Public Records Requests
+
+#### [Public Records Request 26-16685](https://nola.nextrequest.com/requests/26-16685)
+
+* Status:  *CLOSED*
+
+>I would like records of payments made to the City of New Olreans/Audubon Park Commision for 2025, related to land which is being rented to property owners alone the Waltnut St. As well as any documents pertaining to how and when these land encroachments were last assessed.
+>
+>Please refer to http://saveaudubonpark.org/web/saparchive/p4088.htm for additional clarification.
+>
+>Thank you,
+>
+>Gary B
+
+Response
+
+>The City of New Orleans does not have records responsive to your request.
+>
+>On behalf of the custodial department(s), our office has responded to your request and considers this request closed.
+>
+>Law Department
+>City of New Orleans
+>1300 Perdido St., Ste. 5E03
+>New Orleans, LA 70112
+>504-658-9800
+
+#### [Public Records Request 26-17284](https://nola.nextrequest.com/requests/26-17284)
+
+* Status:  *SUBMITTED*
+
+>I am requesting copies of the "two independent appraisals" which the Audubon Park commission received and made reference two in their minutes from November 13, 2024 (https://assets.speakcdn.com/assets/2848/ac_minutes_11_24-2024112102144005.pdf) related to the value of land encroachments into Audubon Park along the border with private properties on Walnut St.
+>
+>This is directly related to approval of motion for during the Audubon Commission meeting of November 13 2024 which took place in the Audubon Zoo Presidents' Room.
+>
+>Thanks you,
+>Gary
+
+
+
 ### Disclaimer
 
 This is not an official land survey.  In most cases the actual line of encroachment could be debated by reasonable people.  Also, it is not possible for me to know that a particular property owner is responsible for an encroachment just because that encroachment happens behind their house.  It is also no possible for me to know how far plants like cast irons and bamboo have moved from their original location.  And it is not possible (though curious) for me to know why Audubon Park doesn’t include these spaces in its lawn services, in fact it is even possible that the private lawn contractors were hired by Audubon Park to do this work.  I would greatly appreciate anyone who can provide additional context to the situation.  This is a citizen science project aimed at doing 2 things.  
