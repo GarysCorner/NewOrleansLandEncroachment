@@ -15,6 +15,8 @@ The areas in red on the interactive map represent assumed encroachments into Aud
 * [Audubon targets intrusions into park ](http://saveaudubonpark.org/web/saparchive/p4088.htm)
 * [Band v. Audubon Park Comission](https://caselaw.findlaw.com/court/la-court-of-appeal/1225526.html)
 * [Audubon Commission Minutes 11/13/2024](https://assets.speakcdn.com/assets/2848/ac_minutes_11_24-2024112102144005.pdf)
+* [GNO Appraisals Walnut St.pdf](docs/GNO%20Appraisals%20Walnut%20St.pdf)
+* [Murphy Walnut St Appraisals.pdf](docs/Murphy%20Walnut%20St%20Appraisals.pdf)
 
 During my walks in Audubon Park I have noticed what appears to be a concerning trend of private landscapers planting plants (bamboo, cast irons, etc) which seem intended to preventing reasonable access to parts of Audubon Park in a way that benefits private land owners. A little googlefoo showed that this issue has come up before (see below) and was addressed in a way that was considered adequate at the time. On that note I believe the situation has changed since this issue was addressed in the early 2000s.
 
@@ -35,42 +37,7 @@ To make this happen I have combined publicly available data sources with photos 
 
 ### Public Records Requests
 
-#### [Public Records Request 26-16685](https://nola.nextrequest.com/requests/26-16685)
-
-* Status:  *CLOSED*
-
->I would like records of payments made to the City of New Olreans/Audubon Park Commision for 2025, related to land which is being rented to property owners alone the Waltnut St. As well as any documents pertaining to how and when these land encroachments were last assessed.
->
->Please refer to http://saveaudubonpark.org/web/saparchive/p4088.htm for additional clarification.
->
->Thank you,
->
->Gary B
-
-Response
-
->The City of New Orleans does not have records responsive to your request.
->
->On behalf of the custodial department(s), our office has responded to your request and considers this request closed.
->
->Law Department
->City of New Orleans
->1300 Perdido St., Ste. 5E03
->New Orleans, LA 70112
->504-658-9800
-
-#### [Public Records Request 26-17284](https://nola.nextrequest.com/requests/26-17284)
-
-* Status:  *SUBMITTED*
-
->I am requesting copies of the "two independent appraisals" which the Audubon Park commission received and made reference two in their minutes from November 13, 2024 (https://assets.speakcdn.com/assets/2848/ac_minutes_11_24-2024112102144005.pdf) related to the value of land encroachments into Audubon Park along the border with private properties on Walnut St.
->
->This is directly related to approval of motion for during the Audubon Commission meeting of November 13 2024 which took place in the Audubon Zoo Presidents' Room.
->
->Thanks you,
->Gary
-
-
+Update:  The Audubon Institute responded to my request directly after being emails.  Credit where its due they were prompt and didn't charge me anything.  Unfortunitly the land appraisel I received dont shed much light on the situation at least as far as I can tell.  Perhaps someone who understands these thigns better could enlighten me.
 
 ### Disclaimer
 
